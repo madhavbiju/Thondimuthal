@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "704828325395",
+    "project_id": "tdms-tg",
+    "storage_bucket": "tdms-tg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704828325395:android:97fc2730dc32243a97c9e6",
+        "android_client_info": {
+          "package_name": "com.madhav.tdms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704828325395-f6e7ncgfslaqn0cn4efdbtk5flfudqd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB1-WxbROpfZ9cAB42qjYm4XCUctii8ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704828325395-f6e7ncgfslaqn0cn4efdbtk5flfudqd7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "704828325395-sl827di7s6v42mspk72e52m10b8dno9l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.test1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
